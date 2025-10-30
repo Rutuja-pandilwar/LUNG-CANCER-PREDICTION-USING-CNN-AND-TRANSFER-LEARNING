@@ -1,7 +1,7 @@
 
 # LUNG CANCER PREDICTION USING CNN AND TRANSFER LEARNING 🔬
 
-## 📝 Project Overview
+## Project Overview
 
 Lung cancer remains a leading cause of cancer-related deaths worldwide. This project develops a deep learning solution for automated lung cancer prediction and classification using Computed Tomography (CT) scan images.
 
@@ -16,7 +16,7 @@ This automated solution provides near-instantaneous predictions, significantly i
 
 -----
 
-## ✨ Key Results and Technical Highlights
+## Key Results and Technical Highlights
 
 The Transfer Learning approach achieved robust performance on the validation set.
 
@@ -33,7 +33,7 @@ The Transfer Learning approach achieved robust performance on the validation set
 
 -----
 
-## 🧠 Methodology: Model Architecture
+## Methodology: Model Architecture
 
 The deep learning pipeline is built on the TensorFlow/Keras framework and utilizes a frozen Transfer Learning base.
 
@@ -55,7 +55,7 @@ The training process employed multiple callbacks for regularization and optimiza
 
 -----
 
-## 💻 Code Implementation
+## Code Implementation
 
 The following code snippets reflect the exact implementation used for data handling and model construction.
 
@@ -165,6 +165,6 @@ Review Results: The final metrics will be displayed in the notebook output.
 
 This concludes the detailed documentation for the Bachelor of Technology thesis, "LUNG CANCER PREDICTION USING CNN AND TRANSFER LEARNING."
 
-## ‼️ IMPORTANT: The dataset is NOT included in this GitHub repository.
+## IMPORTANT: The dataset is NOT included in this GitHub repository.
 
 Due to file size and data privacy concerns, the necessary CT scan image dataset is NOT included in this repository. To fully run the Lung Cancer.ipynb notebook and reproduce the results, the reviewer must first acquire the data and structure it on their Google Drive according to the paths specified in the notebook's  DATA ACQUISITION section.
