@@ -18,7 +18,7 @@ This automated solution provides near-instantaneous predictions, significantly i
 
 ## Dataset
 
-This project uses the **original CT scan images** collected from Nagpur **Meyo Hospital** (Nagpur, India). These images form the core dataset used for analysis, model training, and validation.
+This project uses the **original CT scan images** collected from Nagpur **Indira Gandhi Government Medical College & Hospital (IGGMCH)** (Nagpur, India). These images form the core dataset used for analysis, model training, and validation.
 
 All CT scan data were obtained and utilized strictly for academic and research purposes, following ethical standards for data privacy and confidentiality.
 Due to privacy restrictions, the original CT images are not uploaded or shared in this repository.
