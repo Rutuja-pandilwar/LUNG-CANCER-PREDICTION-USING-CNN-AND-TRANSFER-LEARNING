@@ -16,6 +16,20 @@ This automated solution provides near-instantaneous predictions, significantly i
 
 -----
 
+## Dataset
+
+This project uses the original CT scan images collected from Nagpur Meyo Hospital (Nagpur, India). These images form the core dataset used for analysis, model training, and validation.
+
+All CT scan data were obtained and utilized strictly for academic and research purposes, following ethical standards for data privacy and confidentiality.
+Due to privacy restrictions, the original CT images are not uploaded or shared in this repository.
+
+For reference:
+
+The dataset consists of CT scan images categorized according to specific medical conditions.
+
+Data preprocessing included resizing, normalization, and augmentation steps before model training.
+
+
 ## Key Results and Technical Highlights
 
 The Transfer Learning approach achieved robust performance on the validation set.
